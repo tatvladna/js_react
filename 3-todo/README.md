@@ -5,7 +5,7 @@ To-Do List (React, MongoDB, Express)
 </div>
 
 <div>
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/react/react-original.svg" alt=""/>
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt=""/>
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/react/react-original.svg" width="150" height="150" alt=""/>
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="150" height="150" alt=""/>
 </div>
 
